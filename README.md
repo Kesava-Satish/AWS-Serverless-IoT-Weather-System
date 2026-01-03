@@ -7,7 +7,7 @@ This project demonstrates a **Cloud-Native IoT Architecture** capable of ingesti
 > **Cloud Provider:** Amazon Web Services (AWS)\
 > **Language:** Python 3 (Boto3 SDK)
 
-## jn️ AWS Services Implemented
+## AWS Services Implemented
 This project orchestrates the following AWS services to create a scalable pipeline:
 
 ### 1. AWS IoT Core (The Gateway)
